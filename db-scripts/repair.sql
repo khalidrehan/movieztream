@@ -1,0 +1,1 @@
+REPAIR TABLE mysql.proc;

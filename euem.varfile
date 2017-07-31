@@ -1,0 +1,19 @@
+#install4j response file for AppDynamics End User Experience Management 4.0.0.0
+#Mon Nov 17 14:28:45 EST 2014
+sys.adminRights$Boolean=false
+euem.httpPort=7001
+euem.httpsPort=7002
+euem.Host=SERVERHOSTNAME
+mysql.databaseRootUser=root
+sys.languageId=en
+mysql.databasePort=3388
+euem.initialHeapXms=256
+euem.maximumHeapXmx=512
+mysql.dbHostName=localhost
+sys.installationDir=/appdynamics/EUEM
+euem.InstallationMode=demo
+controller.installationDir=/appdynamics/Controller
+controller.Host=localhost
+eumDatabasePassword=welcome1
+eumDatabaseReEnterPassword=welcome1
+mysqlRootUserPassword=welcome1
